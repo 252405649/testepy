@@ -1,0 +1,15 @@
+2022-01-26 02:06:05,427-INFO-info message
+2022-01-26 02:06:05,427-DEBUG-debug  message
+2022-01-26 02:06:05,427-WARNING-warning  message
+2022-01-26 02:06:05,427-ERROR-error message
+2022-01-26 02:06:05,427-CRITICAL-critical message
+2022-01-26 02:06:55,891-INFO-info message
+2022-01-26 02:06:55,891-DEBUG-debug  message
+2022-01-26 02:06:55,891-WARNING-warning  message
+2022-01-26 02:06:55,891-ERROR-error message
+2022-01-26 02:06:55,891-CRITICAL-critical message
+2022-01-26 02:08:48,329-INFO-info message
+2022-01-26 02:08:48,329-DEBUG-debug  message
+2022-01-26 02:08:48,329-WARNING-warning  message
+2022-01-26 02:08:48,330-ERROR-error message
+2022-01-26 02:08:48,330-CRITICAL-critical message

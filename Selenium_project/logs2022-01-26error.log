@@ -1,0 +1,6 @@
+2022-01-26 02:06:05,427-ERROR-test03.py[:8]-error message
+2022-01-26 02:06:05,427-CRITICAL-test03.py[:9]-critical message
+2022-01-26 02:06:55,891-ERROR-test03.py[:8]-error message
+2022-01-26 02:06:55,891-CRITICAL-test03.py[:9]-critical message
+2022-01-26 02:08:48,330-ERROR-test03.py[:8]-error message
+2022-01-26 02:08:48,330-CRITICAL-test03.py[:9]-critical message

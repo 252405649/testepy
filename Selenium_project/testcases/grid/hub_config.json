@@ -1,0 +1,20 @@
+{
+  "_comment": "Configuration for Hub - hubConfig.json",
+  "port": 4444,
+  "newSessionWaitTimeout": -1,
+  "servlets": ["CustomServlet"],
+  "withoutServlets": [],
+  "custom": {},
+  "capabilityMatcher": "org.openqa.grid.internal.utils.DefaultCapabilityMatcher",
+  "registry": "org.openqa.grid.internal.DefaultGridRegistry",
+  "throwOnCapabilityNotPresent": true,
+  "cleanUpCycle": 5000,
+  "role": "hub",
+  "platform": "WINDOWS",
+  "debug": false,
+  "timeout": 1800,
+  "maxSession": 90,
+  "jettyMaxThreads": 100,
+  "browserTimeout": 0,
+  "prioritizer": null
+}

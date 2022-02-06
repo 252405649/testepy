@@ -1,0 +1,5 @@
+2022-01-26 01:59:29,465-INFO-info message
+2022-01-26 01:59:29,466-DEBUG-debug  message
+2022-01-26 01:59:29,466-WARNING-warning  message
+2022-01-26 01:59:29,466-ERROR-error message
+2022-01-26 01:59:29,466-CRITICAL-critical message
